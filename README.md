@@ -1,5 +1,6 @@
+<h1 align="center">Max Lebedev</h1>
+
 <p align="center">
-  <b style="font-size: 30px;">Max Lebedev</b><br>
   <b>Computer Science / Mechatronics @ UNSW Sydney</b><br>
   From games to full-stack platforms - I just like building things.
 </p>
